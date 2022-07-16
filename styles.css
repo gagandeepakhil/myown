@@ -1,0 +1,17 @@
+body{
+    background-color: greenyellow;
+}
+
+hr{
+    background-color:orange;
+    border-color: orange;
+    border-style: none;
+    border-top-style: dashed;
+    border-width: 2px;
+}
+h1,h3,h2{
+    color: peru;
+}
+h5{
+    color:rebeccapurple
+}
